@@ -9,7 +9,7 @@ Ein CLI-Tool zum **Scrapen, Transkribieren und Kommentaranalysieren** von TikTok
 ### 1. Projekt klonen
 
 ```bash
-git clone <dein-repo-url> tiktok_toolkit
+git clone https://github.com/SandroWick/tiktok-toolkit tiktok_toolkit
 cd tiktok_toolkit
 ```
 
