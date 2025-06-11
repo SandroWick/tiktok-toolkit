@@ -58,7 +58,7 @@ tiktok --help
 tiktok scrape-videos test_links.csv --output-dir downloads/
 ```
 
-	•	CSV-Format: Jede Zeile enthält eine TikTok-Video-URL.
+•	CSV-Format: Jede Zeile enthält eine TikTok-Video-URL.
 
 ⸻
 
