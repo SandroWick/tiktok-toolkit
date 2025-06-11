@@ -85,8 +85,10 @@ tiktok transcribe downloads/ --output-dir transcripts/
 ```
 
 Optionen:
-	•	--device cuda für GPU
-	•	--model-size large für größeres Whisper-Modell
+
+•	--device cuda für GPU
+
+•	--model-size large für größeres Whisper-Modell
 
 ⸻
 
