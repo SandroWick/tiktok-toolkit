@@ -1,0 +1,9 @@
+typer[all]
+pandas
+loguru
+faster-whisper
+beautifulsoup4
+lxml
+html5lib
+browser_cookie3
+requests

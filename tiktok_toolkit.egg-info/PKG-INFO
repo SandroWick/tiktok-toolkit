@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: tiktok-toolkit
+Version: 0.1.0
+Summary: CLI tool to scrape, transcribe, and analyze TikToks
+Author: Dein Name
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: typer[all]
+Requires-Dist: pandas
+Requires-Dist: loguru
+Requires-Dist: faster-whisper
+Requires-Dist: beautifulsoup4
+Requires-Dist: lxml
+Requires-Dist: html5lib
+Requires-Dist: browser_cookie3
+Requires-Dist: requests

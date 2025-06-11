@@ -1,0 +1,24 @@
+[project]
+name = "tiktok-toolkit"
+version = "0.1.0"
+description = "CLI tool to scrape, transcribe, and analyze TikToks"
+authors = [{name = "Dein Name"}]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "typer[all]",
+    "pandas",
+    "loguru",
+    "faster-whisper",
+    "beautifulsoup4",
+    "lxml",
+    "html5lib",
+    "browser_cookie3",
+    "requests"
+]
+
+[project.scripts]
+tiktok = "tiktok_toolkit.cli:app"
+
+[tool.setuptools]
+packages = ["tiktok_toolkit"]

@@ -1,0 +1,6 @@
+[submodule "extern/TT_Scraper"]
+	path = extern/TT_Scraper
+	url = https://github.com/Q-Bukold/TikTok-Content-Scraper
+[submodule "extern/tiktokcomment"]
+	path = extern/tiktokcomment
+	url = https://github.com/romysaputrasihananda/tiktok-comment-scrapper
