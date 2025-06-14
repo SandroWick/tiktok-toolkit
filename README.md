@@ -1,6 +1,6 @@
 # 🎬 TikTok Toolkit
 
-Ein CLI-Tool zum **Scrapen, Transkribieren und Kommentaranalysieren** von TikTok-Videos. Entwickelt für Forschungs- und Analysezwecke (z. B. Medien- oder Diskursanalysen).
+CLI-Tool zum **Scrapen, Transkribieren und Kommentaranalysieren** von TikTok-Videos. 
 
 ---
 
